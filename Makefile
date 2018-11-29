@@ -2,6 +2,8 @@
 # CI Practice
 # Summer 2014
 
+# Ryan Novak & Tyler Myers
+
 CC = gcc
 CFLAGS = -c -g -Wall -Wextra
 LFLAGS = -g -Wall -Wextra
